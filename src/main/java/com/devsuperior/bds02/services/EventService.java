@@ -1,6 +1,4 @@
 package com.devsuperior.bds02.services;
-
-import com.devsuperior.bds02.dto.CityDTO;
 import com.devsuperior.bds02.dto.EventDTO;
 import com.devsuperior.bds02.entities.City;
 import com.devsuperior.bds02.entities.Event;
